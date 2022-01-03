@@ -1,4 +1,4 @@
-pragma solidity ^0.6.12;
+pragma solidity >=0.6.12 <0.8.7;
 // SPDX-License-Identifier: Unlicensed
 interface IERC20 {
 
@@ -697,7 +697,7 @@ contract AstroShib is Context, IERC20, Ownable {
     uint256 private _tFeeTotal;
 
     string private _name = "AstroShib";
-    string private _symbol = "ASB";
+    string private _symbol = "ASTROSHIB";
     uint8 private _decimals = 8;
     
     uint256 public _taxFee = 5;
