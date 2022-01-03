@@ -1,1 +1,2 @@
 # AstroShib.sol
+astroshib contract Astroshib protocol is a mixture of RFI tokenomics with the added function of auto-liquidity generating protocol. First, the dev has minted the tokens and then burned 40% of the token total supply. Second, 55% of the initial token supply is allocated to the public which makes up for 91% of the new total supply after 40% of the initial token supply is destroyed. 91% community owned and driven - no rug is possible. #astroshib joins other reflections tokens in this new age of the cryptoverse.
