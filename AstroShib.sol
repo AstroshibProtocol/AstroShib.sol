@@ -1,4 +1,4 @@
-pragma solidity >=0.6.12 <0.8.7;
+pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
 interface IERC20 {
 
